@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/trello-clone/static/css/main.b27d9699.chunk.css",
-    "main.js": "/trello-clone/static/js/main.699cf663.chunk.js",
-    "main.js.map": "/trello-clone/static/js/main.699cf663.chunk.js.map",
-    "runtime-main.js": "/trello-clone/static/js/runtime-main.b826df8b.js",
-    "runtime-main.js.map": "/trello-clone/static/js/runtime-main.b826df8b.js.map",
-    "static/js/2.382d15ee.chunk.js": "/trello-clone/static/js/2.382d15ee.chunk.js",
-    "static/js/2.382d15ee.chunk.js.map": "/trello-clone/static/js/2.382d15ee.chunk.js.map",
-    "static/js/3.c3d2a960.chunk.js": "/trello-clone/static/js/3.c3d2a960.chunk.js",
-    "static/js/3.c3d2a960.chunk.js.map": "/trello-clone/static/js/3.c3d2a960.chunk.js.map",
-    "index.html": "/trello-clone/index.html",
-    "static/css/main.b27d9699.chunk.css.map": "/trello-clone/static/css/main.b27d9699.chunk.css.map",
-    "static/js/2.382d15ee.chunk.js.LICENSE.txt": "/trello-clone/static/js/2.382d15ee.chunk.js.LICENSE.txt"
+    "main.css": "/trello/static/css/main.b27d9699.chunk.css",
+    "main.js": "/trello/static/js/main.699cf663.chunk.js",
+    "main.js.map": "/trello/static/js/main.699cf663.chunk.js.map",
+    "runtime-main.js": "/trello/static/js/runtime-main.404cab6f.js",
+    "runtime-main.js.map": "/trello/static/js/runtime-main.404cab6f.js.map",
+    "static/js/2.382d15ee.chunk.js": "/trello/static/js/2.382d15ee.chunk.js",
+    "static/js/2.382d15ee.chunk.js.map": "/trello/static/js/2.382d15ee.chunk.js.map",
+    "static/js/3.c3d2a960.chunk.js": "/trello/static/js/3.c3d2a960.chunk.js",
+    "static/js/3.c3d2a960.chunk.js.map": "/trello/static/js/3.c3d2a960.chunk.js.map",
+    "index.html": "/trello/index.html",
+    "static/css/main.b27d9699.chunk.css.map": "/trello/static/css/main.b27d9699.chunk.css.map",
+    "static/js/2.382d15ee.chunk.js.LICENSE.txt": "/trello/static/js/2.382d15ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b826df8b.js",
+    "static/js/runtime-main.404cab6f.js",
     "static/js/2.382d15ee.chunk.js",
     "static/css/main.b27d9699.chunk.css",
     "static/js/main.699cf663.chunk.js"
